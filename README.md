@@ -9,6 +9,8 @@ I'm a web3 and game developer, using:
 
 I like creating terminal based games using [scrap_engine](https://github.com/lxgr-linux/scrap_engine).
 
+[Blog](https://lxgr-linux.github.io/blog/)
+
 # My stats
 
 [![lxgr-linux's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxgr-linux&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
