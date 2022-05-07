@@ -9,7 +9,7 @@ I'm a web3 and game developer, using:
 
 I like creating terminal based games using [scrap_engine](https://github.com/lxgr-linux/scrap_engine).
 
-[Blog](https://lxgr-linux.github.io/blog/)
+[Blog](https://lxgr-linux.github.io/)
 
 # My stats
 
