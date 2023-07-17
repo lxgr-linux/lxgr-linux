@@ -7,6 +7,7 @@ I'm a web3 and game developer, using:
 - Vue.js
 - Python
 - Rust
+- C#
 
 I like creating terminal based games using [scrap_engine](https://github.com/lxgr-linux/scrap_engine).
 
