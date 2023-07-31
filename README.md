@@ -5,6 +5,7 @@ Hi there 👋️,
 I'm a web3 and game developer, using:
 - Cosmos-sdk and go
 - Vue.js
+- Next.js
 - Python
 - Rust
 - C#
